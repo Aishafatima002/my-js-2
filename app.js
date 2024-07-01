@@ -59,3 +59,13 @@
 
 // // get time
 //in millisecond
+
+//
+//set date,time,month,year
+// let d=new Date();
+// d.setFullYear(2005);
+// d.setMonth(5)
+// d.setDate(21)
+// d.setHours(5)
+// d.getMinutes(3)
+// console.log(d)
